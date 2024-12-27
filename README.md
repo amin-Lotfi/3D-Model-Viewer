@@ -15,8 +15,9 @@ A 3D Model Viewer application built using PyQt5 and PyOpenGL. This tool allows u
 ---
 
 ## Preview
-
 ![Video Preview](image/IMG_2816.mp4)
+
+![Screenshot Preview](image/Screenshot%20from%202024-12-27%2014-52-24.png)
 
 ---
 
@@ -63,7 +64,8 @@ Ensure you have Python 3.8+ installed and the following libraries:
 ```
 3d-model-viewer/
 ├── image/
-│   └── IMG_2816.mp4
+│   ├── IMG_2816.mp4
+│   └── Screenshot from 2024-12-27 14-52-24.png
 ├── obj.obj
 ├── main.py
 ├── requirements.txt
